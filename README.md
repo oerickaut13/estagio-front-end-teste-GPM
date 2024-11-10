@@ -17,7 +17,8 @@ O objetivo deste teste foi demonstrar minhas habilidades em front-end, especialm
 
 1. Clone o repositório:
    bash
-    git clone gh repo clone oerickaut13/estagio-front-end-teste
+   git clone https://github.com/oerickaut13/estagio-front-end-teste.git
+
 
 Após rodar esse comando, você verá uma nova pasta chamada projeto na sua máquina, que conterá todos os arquivos do repositório.
 
