@@ -26,7 +26,7 @@ O objetivo deste teste foi demonstrar minhas habilidades em front-end, especialm
 
 ## Desafios e Aprendizados:
 
-Tive alguns desafios para implementar a navegação entre telas com o uso de JavaScript para a melhor perfomance . Aprendi a trabalhar com a interação no JS para mostrar e ocultar a biografia de cada personagem quando o usuário clica no nome dele no menu de navegação, o que foi uma ótima experiência.
+Tive alguns desafios para implementar a navegação entre telas com o uso de JavaScript para a melhor perfomance. Aprendi a trabalhar com a interação no JS para mostrar e ocultar a biografia de cada personagem quando o usuário clicar no nome dele no menu de navegação, o que foi uma ótima experiência.
 
 ## Conclusão
 
