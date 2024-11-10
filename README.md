@@ -16,11 +16,13 @@ O objetivo deste teste foi demonstrar minhas habilidades em front-end, especialm
 ## Como Rodar o Projeto Localmente:
 
 1. Clone o repositório:
-   bash
    git clone https://github.com/oerickaut13/estagio-front-end-teste.git
-
-
-Após rodar esse comando, você verá uma nova pasta chamada projeto na sua máquina, que conterá todos os arquivos do repositório.
+2. Abra o PowerShell e cole o repositório.
+3. Esse comando irá baixar uma cópia do repositório no diretório onde você está executando o comando. Depois disso, você pode navegar até a pasta do repositório:
+   cd estagio-front-end-teste
+4. Depois de estar no diretório correto, você pode abrir o VSCode diretamente no diretório do projeto com o seguinte comando:
+   code .
+5. Isso abrirá o projeto no Visual Studio Code, e você pode começar a trabalhar no código diretamente na interface do VSCode.
 
 ## Desafios e Aprendizados:
 
