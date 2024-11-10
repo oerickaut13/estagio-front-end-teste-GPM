@@ -1,21 +1,30 @@
-## O que você deve fazer
+# estagio-front-end-teste-GPM
 
-O teste consiste em corrigir [este](./index.html) documento HTML que está quebrado propositalmente. Você deve arrumar tanto a estilização, quanto escrever o script que adiciona a interação com página.
+Teste para a vaga de estágio de desenvolvedor frontend na GPM
 
-No gif abaixo você encotrará uma demonstração de como deve ficar a página estática final.
+## Descrição do Projeto
 
-![video.gif](./video.gif)
+Este projeto é uma aplicação web criada como parte de um teste para uma posição de estágio em front-end. A aplicação permite ao usuário visualizar um pouco da historia e biografia de alguns personagens da marvel, podendo navegar entre as paginas de cada personagem.
+O objetivo deste teste foi demonstrar minhas habilidades em front-end, especialmente no uso de HTML, CSS e JavaScript.
 
-1) Não há necessidade de uso de nenhum framework.
-2) As imagens que serão usadas se encontram dentro do diretório `img`
-3) As fontes a serem utilizadas são `Oswald` e `Roboto`. Você deve utilizar a Roboto para o texto em geral, a segunda fonte deve ser utlizada somente no nome do personagem em destaque.
-4) As cores utilizadas são: 
-    - #101010
-    - #e62429
-    - #fff
+## Tecnologias Utilizadas
 
-## O que esperamos de você
+- HTML5
+- CSS3 (Flexbox e Grid)
+- JavaScript
 
-Queremos saber se você conhece os conceitos básicos de HTML, CSS e JS. Procure deixar o documento final o mais próximo possível do exemplo demonstrado.
+## Como Rodar o Projeto Localmente:
 
-Também obeservaremos a organização deste pequeno projeto.
+1. Clone o repositório:
+   bash
+   git clone <https://github.com/oerickaut13/estagio-front-end-teste>
+
+Após rodar esse comando, você verá uma nova pasta chamada projeto na sua máquina, que conterá todos os arquivos do repositório.
+
+## Desafios e Aprendizados:
+
+Tive alguns desafios para implementar a navegação entre telas com o uso de JavaScript para a melhor perfomance . Aprendi a trabalhar com a interação no JS para mostrar e ocultar a biografia de cada personagem quando o usuário clica no nome dele no menu de navegação, o que foi uma ótima experiência.
+
+## Conclusão
+
+Agradeço pela oportunidade de realizar este teste e demonstrei aqui minhas habilidades em front-end. Estou entusiasmado para aprender e crescer como desenvolvedor na GPM.
